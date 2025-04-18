@@ -12,7 +12,5 @@ I am an artist, writer, and educator based in Los Angeles. I am Liberal Arts fac
 [Forms of Writing](https://drtovar.github.io/fow/), SCI-Arc, Spring 2025\
 [Outsider Geographies](https://drtovar.github.io/og/), SCI-Arc, Spring 2025
 
-> This is a test quote
-
 </body>
 </html>
